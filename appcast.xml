@@ -3,12 +3,12 @@
     <channel>
         <title>TruffleOSApp</title>
         <item>
-            <title>0.1.4</title>
-            <pubDate>Tue, 04 Feb 2025 14:14:16 -0800</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <title>0.1.5</title>
+            <pubDate>Tue, 04 Feb 2025 14:25:49 -0800</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/deepshard/truffle-macos-update/releases/download/prod/TruffleOSApp-0.1.4.9.dmg" length="14024845" type="application/octet-stream" sparkle:edSignature="InIjhz6EvbUFHHlWzll4C9ZvLXzewwwnRhNQ/O7XOCoyfnGQLMoLmPODy6144PNb2rBasVA7V/8c09ANMp5zCg=="/>
+            <enclosure url="https://github.com/deepshard/truffle-macos-update/releases/download/prod/TruffleOSApp-0.1.5.10.dmg" length="14028733" type="application/octet-stream" sparkle:edSignature="Irr1r/emuQXNON4/mBD99yaQfBUasjcVSWa4enB5oRDL8UgE+em/czRmrWV+Zcv9X7sHRYV+AXcDgkU4jgKdDg=="/>
         </item>
     </channel>
 </rss>
