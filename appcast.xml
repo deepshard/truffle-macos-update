@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://truffle-macos-bucket.s3.us-east-1.amazonaws.com/prod/TruffleOSApp-0.1.0(1).dmg" length="14027562" type="application/octet-stream" sparkle:edSignature="R1KWkiOr9WtkiwdbgJtfT2bpHJQwAYpNcYmhmXOar4YmMfpp5lAblnSXjz6BgFbfEckH2oebG5nzC9SdSA1oCg=="/>
+            <enclosure url="https://github.com/deepshard/truffle-macos-update/releases/download/prod/TruffleOSApp-0.1.0.1.dmg" length="14027562" type="application/octet-stream" sparkle:edSignature="R1KWkiOr9WtkiwdbgJtfT2bpHJQwAYpNcYmhmXOar4YmMfpp5lAblnSXjz6BgFbfEckH2oebG5nzC9SdSA1oCg=="/>
         </item>
     </channel>
 </rss>
