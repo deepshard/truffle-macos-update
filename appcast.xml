@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>TruffleOSApp</title>
+        <title>TruffleOS</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Tue, 04 Feb 2025 17:19:47 -0800</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <title>0.2.1</title>
+            <pubDate>Tue, 04 Feb 2025 20:48:59 -0800</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/deepshard/truffle-macos-update/releases/download/prod/TruffleOSApp-0.2.0.15.dmg" length="14035756" type="application/octet-stream" sparkle:edSignature="dwAhbDEduZ1+M8tSfUOMJmW+xnNwjNpLnvwG4r6GL4s5ybGg8zW/WsiZdZ7c1ZDLwgDTTVkMjY9yd1czO7FyCw=="/>
+            <enclosure url="https://truffle-macos-bucket.s3.us-east-1.amazonaws.com/prod/TruffleOS-0.2.1(16).dmg" length="14136841" type="application/octet-stream" sparkle:edSignature="bKkLsi59XNZzSWVebEgoB8Plk/AQmbLDjuGRuQypZhho36zZzV1i+hD0cYW+hAK34T+IQ9pPG5enPiZXTkqOAA=="/>
         </item>
     </channel>
 </rss>
