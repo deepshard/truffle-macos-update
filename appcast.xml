@@ -3,12 +3,12 @@
     <channel>
         <title>TruffleOS</title>
         <item>
-            <title>0.2.1</title>
-            <pubDate>Tue, 04 Feb 2025 20:48:59 -0800</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <title>0.2.2</title>
+            <pubDate>Wed, 05 Feb 2025 12:28:47 -0800</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://truffle-macos-bucket.s3.us-east-1.amazonaws.com/prod/TruffleOS-0.2.1(16).dmg" length="14136841" type="application/octet-stream" sparkle:edSignature="bKkLsi59XNZzSWVebEgoB8Plk/AQmbLDjuGRuQypZhho36zZzV1i+hD0cYW+hAK34T+IQ9pPG5enPiZXTkqOAA=="/>
+            <enclosure url="https://truffle-macos-bucket.s3.us-east-1.amazonaws.com/prod/TruffleOS-0.2.2(17).dmg" length="14027377" type="application/octet-stream" sparkle:edSignature="rmYPUir3Syf16UL+WURqLcCTL0DlBHgfd3aJZlohj2swgvWZ1YdDTyJjaTroidh0q+3f3V1LZwgzmCbuAtaGDg=="/>
         </item>
     </channel>
 </rss>
