@@ -11,7 +11,7 @@
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://deepshard.github.io/truffle-macos-update/TruffleOS.dmg" length="14062301" type="application/octet-stream" sparkle:edSignature="zMQb+C4uc4REJDO8vPCufd9t87cnmdnNFeB5FDrg2Fao0ouu+pazyv7BSqu+zIK/J5bQ34q8S9nbEWDSgCx3BA=="/>
+            <enclosure url="https://truffle-macos-bucket.s3.us-east-1.amazonaws.com/prod/TruffleOS-rollback2.dmg" length="14062301" type="application/octet-stream" sparkle:edSignature="zMQb+C4uc4REJDO8vPCufd9t87cnmdnNFeB5FDrg2Fao0ouu+pazyv7BSqu+zIK/J5bQ34q8S9nbEWDSgCx3BA=="/>
         </item>
     </channel>
 </rss>
